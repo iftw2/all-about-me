@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+  <body>
+    <section class="hero is-dark is-halfheight ">
 
+        <div class="hero-head">
+            {% include header.html %}
+    
+        </div>
+    
+    
+        <div class="hero-body">
+            <div class="container has-text-centered is-centered">
+                <h1 class="title is-1">
+                  {{ page.title | escape }}
+                </h1>
+              </div>
+        </div>
+    </section>
+
+    <div class="post-content"> {{content}} </div>
+          {% include footer.html %}
+  </body>
+</html>
