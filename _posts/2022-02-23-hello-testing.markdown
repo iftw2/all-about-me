@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "All About Me"
-date:   2022-02-23 19:35:45 -0400
+date:   2022-03-23 19:35:45 -0400
 categories: jekyll update
-image: ""
+image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fcalm&psig=AOvVaw1PnhHqvPoigLjUrfVeXvU5&ust=1651669709612000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiVh6Wzw_cCFQAAAAAdAAAAABAD"
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
