@@ -14,5 +14,5 @@ You can find me at:
 The source for this website is at:
 <a href="https://github.com/iftw2/iftw2.github.io">GitHub</a>
 <br>
-<a href="https://github.com/KhrispDev">KhrispDev</a>❤️
+Made with help from <a href="https://github.com/KhrispDev">KhrispDev</a>❤️
 </center>
