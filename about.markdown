@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Picture of Ming Lu](/files/ming_pixel.png "Ming Lu")
+<img src="/files/ming_pixel.png" alt="Ming Lu" width="200"/>
+<br>
 Hey there, I'm Ming. I am super pro!
 
 You can find me at:
