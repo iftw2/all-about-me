@@ -8,12 +8,12 @@ permalink: /about/
 <br>
 Hey there, I'm Ming. I am super pro!  
   
-<br>
-You can find me at:
-<a href="https://github.com/iftw2">GitHub</a>
-<br>
-The source for this website is at:
-<a href="https://github.com/iftw2/iftw2.github.io">GitHub</a>
-<br>
+
+You can find me at: <a href="https://github.com/iftw2">GitHub</a>  
+  
+  
+The source for this website is at: <a href="https://github.com/iftw2/iftw2.github.io">GitHub</a>  
+  
+  
 Made with help from <a href="https://github.com/KhrispDev">KhrispDev</a>❤️
 </center>
