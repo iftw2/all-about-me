@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 <center>
-<img src="/files/ming_pixel.png" alt="Ming Lu" width="400"/>
-  
+  <img src="/files/ming_pixel.png" alt="Ming Lu" width="400"/>
+</center>
 
 Hey there, I'm Ming. I am super pro!  
   
@@ -17,4 +17,3 @@ The source for this website is at: <a href="https://github.com/iftw2/iftw2.githu
   
   
 Made with help from <a href="https://github.com/KhrispDev">KhrispDev</a>❤️
-</center>
