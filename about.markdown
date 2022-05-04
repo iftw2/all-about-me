@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <center>
-<img src="/files/ming_pixel.png" alt="Ming Lu" width="200"/>
+<img src="/files/ming_pixel.png" alt="Ming Lu" width="400"/>
 <br>
 Hey there, I'm Ming. I am super pro!
 
