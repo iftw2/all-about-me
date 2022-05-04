@@ -7,12 +7,12 @@ permalink: /about/
 <img src="/files/ming_pixel.png" alt="Ming Lu" width="400"/>
 <br>
 Hey there, I'm Ming. I am super pro!
-
+<br>
 You can find me at:
-[Github](https://github.com/iftw2)
-
+<a href="https://github.com/iftw2">GitHub</a>
+<br>
 The source for this website is at:
-[Source](https://github.com/iftw2/iftw2.github.io)
-
-Made with help from [KhrispDev](https://github.com/KhrispDev)❤️
+<a href="https://github.com/iftw2/iftw2.github.io">GitHub</a>
+<br>
+<a href="https://github.com/KhrispDev">KhrispDev</a>❤️
 </center>
