@@ -25,7 +25,7 @@ author:
   about: homepage
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Typroducts is a generic company website. It first started in 2012, this website is a basic website with a products page, an about me page, and a charity page. This website is hosted by Github, the founder of this website and company is Ming Lu. If you are seeking for more information, our company adress is at 2433 Belverny AVE, Toronto, ON. Below if our contact inforrmation if you would like to reach out.  
+  Typroducts is a generic company website. It first started in 2012, this website is a basic website with a products page, an about me page, and a charity page. This website is hosted by Github, the founder of this website and company is Ming Lu. If you are seeking for more information, our company adress is at 2433 Belverny AVE, Toronto, ON. Below is our contact inforrmation if you would like to reach out.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
