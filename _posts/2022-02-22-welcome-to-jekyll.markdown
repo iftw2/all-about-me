@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll! 1"
+title:  "Products Page"
 date:   2022-02-22 23:35:45 -0400
 categories: jekyll update
 image: "https://picsum.photos/1024"
