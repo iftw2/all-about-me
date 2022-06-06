@@ -31,18 +31,18 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 contacts:
-  # - title: twitter 
-  #   url: 'https://twitter.com/whyherro1'
+  - title: twitter 
+    url: 'https://twitter.com/'
   # - title: github
   #   url:  'https://github.com/iftw2/'
   # - title: facebook
   #   url: 'https://example.com/@jekyllrb'
-  # - title: instagram
-  #   url: 'https://example.com/@jekyllrb'
+  - title: instagram
+    url: 'https://instagram.com/'
   # - title: linkedin
   #   url: 'https://example.com/@jekyllrb'
-  # - title: youtube
-  #   url: 'https://example.com/@jekyllrb'
+  - title: youtube
+    url: 'https://youtube.com/'
   # - title: twitch
   #   url: 'https://example.com/@jekyllrb'
   # - title: telegram
@@ -55,10 +55,6 @@ contacts:
   #   url: 'https://example.com/@jekyllrb'
   - title: email
     url: mailto:ming.lu@student.tdsb.on.ca
-  - title: twitter
-    url: 'https://twitter.com/'
-  - title: youtube
-    url: 'https://youtube.com/'
 
 # Build settings
 theme: minima
