@@ -2,18 +2,8 @@
 layout: post
 title:  "Products Page"
 date:   2022-02-22 23:35:45 -0400
-categories: jekyll update
-image: "https://picsum.photos/1024"
+categories: products
+image: "https://images.squarespace-cdn.com/content/v1/5b35b18af93fd4d75e591f4a/1543985895500-98LX8K027J1RWKQWFGAH/HS-Website---Vegetable-Products.jpg?format=2500w"
 ---
 In here you can find our products page.
 [Products-page]
-
-
-
-
-
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
-[Products-page]: https://sites.google.com/student.tdsb.on.ca/termsandconditions/home
